@@ -16,3 +16,9 @@ nombre, pais y edad y el método saludar. El método saludar debe imprimir por p
 5) Crear una clase llamada Circulo que contenga el atributo radio y los métodos `calcular_area` y `calcular_perimetro`. Dichos métodos deben calcular el parámetro correspondiente.
 Ayuda: el módulo math puede ser de utilidad para usar la constante π.
 6) Dado un string con paréntesis "()", "{}", "[]", verifica si están correctamente balanceados usando una pila.
+7) Usa una cola para simular un sistema de turnos en un banco. La cola debe permitir:
+- Agregar clientes (encolar).
+- Atender clientes (desencolar).
+- Mostrar el siguiente cliente en la fila.
+8) Crea una lista enlazada que permita insertar nodos al inicio y recorrer la lista para mostrar los valores almacenados.
+9) Dada una lista enlazada, implementa una función para invertirla.
